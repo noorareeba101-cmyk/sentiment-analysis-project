@@ -44,7 +44,7 @@ Helps in easy interpretation of results
 
 
 🧠 Model Used
-Logistic Regression / Naive Bayes / SVM (depending on implementation)
+Logistic Regression / Naive Bayes / SVM 
 📈 Evaluation
 
 Model performance is evaluated using:
